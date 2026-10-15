@@ -1,0 +1,14 @@
+build/
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.idea/
+.vscode/
+*.tsbuildinfo

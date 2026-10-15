@@ -1,0 +1,6 @@
+project: arcade-actions
+prefix: arcade-actions
+stack:
+  - typescript
+  - terraform
+typescript_dir: frontend
